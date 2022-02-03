@@ -1,0 +1,2 @@
+# python-autoclicker
+Python autoclicker
