@@ -6,7 +6,7 @@ setup(
     packages=[''],
     url='https://github.com/ppcreator',
     license='',
-    author='isaychris',
+    author='ppcreator',
     author_email='',
     description='A simple autoclicker with controls using pyautogui'
 )
